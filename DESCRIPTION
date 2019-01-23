@@ -1,0 +1,3 @@
+Type: Compendium
+Version: 0.1.0
+Depends: tidyverse sf rstan devtools shinydashboard leaflet
